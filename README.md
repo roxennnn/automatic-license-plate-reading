@@ -1,5 +1,8 @@
 # Project on Automatic License Plate Reading
+
 ## Computer Vision course ch1 2018/19 UniPD
+
+A _Computer Vision_ University project.
 
 #### What you can find inside:
 * **AutomaticLicensePlateReading.sh**
